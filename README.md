@@ -7,7 +7,7 @@ file to display the name parameter given to the script.
 ## Usage
 
 1. Clone repository to local directory.
-2. run ./run_httpd.sh <name> 
+2. run ./run_httpd.sh [name] 
 3. browse to localhost:1234
 
 ## Note
