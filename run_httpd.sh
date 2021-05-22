@@ -4,7 +4,7 @@ if [ $# -eq 0 ]
   then
     echo "No arguments supplied"
     echo "usage:"
-    echo "./change_body.sh <name>"
+    echo "./run_httpd.sh <name>"
     exit
 fi
 
